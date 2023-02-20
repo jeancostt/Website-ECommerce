@@ -1,2 +1,2 @@
-# Site responsivo utilizando HTML e CSS
+# Responsive Website
 
